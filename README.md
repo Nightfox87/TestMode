@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/aj5o542ufqxhfrjn?svg=true)](https://ci.appveyor.com/project/Nightfox87/testmode)
